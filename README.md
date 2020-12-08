@@ -4,7 +4,7 @@ For my own personal reference.
 
 [Click here](https://nbviewer.jupyter.org/) and paste URL to view any Jupyter Notebooks using nbviewer
 
-Modules Taken:  
+**Modules Taken:**  
 DSA1101, DSA2101, DSA2102, DSA3101, DSA3102, DSA4211  
 CS1010, CS1231, CS2040, CS2102, CS3243, CS3244  
 MA1101R, MA1102, MA2104  
