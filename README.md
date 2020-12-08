@@ -12,3 +12,15 @@ ST2131, ST2132, ST3131, ST3233, ST3247
 
 SP1541, GER1000, GEQ1000, GES1003, GET1025, GEH1033  
 LSM1301, PLS8001, PLS8003, CFG1002, 
+
+# Data Things
+## Data Cleaning
+
+## Data Manipulation
+
+## Dimensionality Reduction
+
+# Machine Learning Methods
+## Supervised
+
+## Unsupervised
