@@ -19,8 +19,36 @@ LSM1301, PLS8001, PLS8003, CFG1002,
 ## Data Manipulation
 
 ## Dimensionality Reduction
+- Principal Components Regression (PCR)
+- Partial Least Squares (PLS)
+- Sure Independence Screening (SIS)
+- Sliced Inverse Regression (SIR)
 
 # Machine Learning Methods
 ## Supervised
+### Regression
+- Linear Regression (Feature Engineering eg. Polynomial Values)
+- Subset Selection (Best subset, forward/backwards stepwise)
+- Shrinkage Methods
+  - Ridge Regression
+  - Lasso
+  - SCAD
+  
+### Classification
+- Logistic Regression
+- LDA/QDA
+
+### Usable for both Regression and Classification
+- K-Nearest Neighbors
+- Decision Trees
+  - Bagging & Bootstrap
+  - Random Forest
+  - Boosting
+- Neural Networks
+  - Convolutional Neural Networks
+  - LSTM & GRU
 
 ## Unsupervised
+- K-Means Clustering
+- Hierarchical Clustering
+- Principal Components Analysis (PCA)
